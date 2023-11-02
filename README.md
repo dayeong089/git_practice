@@ -1,1 +1,1 @@
-this is for github practice
+this repository is for github practice
